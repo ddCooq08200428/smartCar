@@ -64,12 +64,12 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
->>小組成員
+***
+小組成員
 1.許研碩
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308887636_399052499061965_4778204609374068111_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=W6yfbeQ_VYYAX9k3VKj&_nc_ht=scontent-tpe1-1.xx&oh=03_AVIStSP4TNm-LLtU-ttegL4wIlkUVaCgXJZN_M7nzxMfyg&oe=635AB82D)
 2.陳銘鴻
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308205167_2879865088988955_5230412862493570143_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XnxEGVlCv18AX9M7Ous&_nc_ht=scontent-tpe1-1.xx&oh=03_AVITOzZXnH4V8Lby0UvNxjR59Kw9P-YhJPWzfx5Oja_ExA&oe=635B23B9)
-
 3.黃梓恩
 圖 6. 駕駛員執行夜間對比度增強應用程序，駕駛員視野增加。上下部分代表駕駛員在使用應用程序之前和之後的視野。
 ### 參考文獻:
