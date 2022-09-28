@@ -7,8 +7,8 @@
 2. 提供人車優良介面。
 
 
-``智慧汽車與無人汽車或自動駕駛的定義並不相同。無人汽車代表不需要人為駕駛，完全自動化操縱車輛。``
-
+智慧汽車與無人汽車或自動駕駛的定義並不相同。無人汽車代表不需要人為駕駛，完全自動化操縱車輛。``
+自動駕駛分級
 ![image](https://scitechvista.nat.gov.tw/FileDownload/Article/20190702160618000000294.jpg)
 
 智慧汽車此發展技術即是以現有的車輛上裝載各種感測器與控制系統。通過車輛的感測系統與所收集之資訊，使得人、車輛、道路狀況、外界大氣環境狀況等種種訊息進行資訊整理，自動分析車輛的行駛狀態與車內環境狀況，界定安全或是危險狀態，協助人員到達的目的。
@@ -86,5 +86,4 @@ before and after using the application.
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/307525972_5761730067173184_1964283615372380766_n.jpg?stp=dst-jpg_s403x403&_nc_cat=107&ccb=1-7&_nc_sid=aee45a&_nc_ohc=OebVDhlMD80AX-Tz6WP&_nc_ht=scontent-tpe1-1.xx&oh=03_AVJGDvJpqKHjKZFXFkfb6IJufqUuucol4EPw-q8JBRJB-A&oe=635878A4)
 ### 參考文獻:
 * https://tomorrowsci.com/technology/%E3%80%8A%E6%97%A5%E7%B6%93%E3%80%8B%E5%85%A8%E7%90%83%E8%87%AA%E9%A7%95%E8%BB%8A%E6%8A%80%E8%A1%93%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9Aford%E3%80%81toyota%E6%8B%94%E9%A0%AD%E7%B1%8C%EF%BC%8C%E7%89%B9/
-*
-https://speed.ettoday.net/news/960239
+* https://speed.ettoday.net/news/960239
