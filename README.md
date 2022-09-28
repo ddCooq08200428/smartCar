@@ -1,5 +1,5 @@
 ### 智慧汽車(SmartCar)
-
+***
 智慧汽車代表集合環境感測、決策規劃、多等級輔助駕駛等多功能的結合系統。運用的技術包括電腦、感測、信息綜合、人工智慧與自動控制。近年來對智慧汽車之研究方向在於：
 
 1. 提高汽車安全性與舒適性。
@@ -23,8 +23,7 @@
 5. ``駕駛控制系統``：控制汽車起動，用油與控速，達到最省能源之效果。
 
 6. 駕駛信息服務系統：存有各種道路與服務設施(加油站、休息站、旅館、警察局等)之資料以提供查詢。
-![image](https://techbyeast.com/wp-content/uploads/2021/05/Graph-by-Nikkei-696x608.jpg)
-
+***
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
