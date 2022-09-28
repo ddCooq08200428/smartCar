@@ -78,12 +78,12 @@ before and after using the application.
 小組成員
 
 1.許延碩
-![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308887636_399052499061965_4778204609374068111_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=W6yfbeQ_VYYAX9k3VKj&_nc_ht=scontent-tpe1-1.xx&oh=03_AVIStSP4TNm-LLtU-ttegL4wIlkUVaCgXJZN_M7nzxMfyg&oe=635AB82D)
+![image]([https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308887636_399052499061965_4778204609374068111_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=W6yfbeQ_VYYAX9k3VKj&_nc_ht=scontent-tpe1-1.xx&oh=03_AVIStSP4TNm-LLtU-ttegL4wIlkUVaCgXJZN_M7nzxMfyg&oe=635AB82D](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/306529955_3356000037981024_4066772321067458060_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=eksDl38eMjgAX_eeaey&_nc_ht=scontent-tpe1-1.xx&oh=03_AVIztldkWSKIsz98Yj8aX-weiDv8TlN2Vw31cuHV7b_-Jg&oe=635A45C5)
 2.陳銘鴻
-![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308205167_2879865088988955_5230412862493570143_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XnxEGVlCv18AX9M7Ous&_nc_ht=scontent-tpe1-1.xx&oh=03_AVITOzZXnH4V8Lby0UvNxjR59Kw9P-YhJPWzfx5Oja_ExA&oe=635B23B9)
+![image]([https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308205167_2879865088988955_5230412862493570143_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=XnxEGVlCv18AX9M7Ous&_nc_ht=scontent-tpe1-1.xx&oh=03_AVITOzZXnH4V8Lby0UvNxjR59Kw9P-YhJPWzfx5Oja_ExA&oe=635B23B9](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/301364230_1128615754412692_1008816830299471423_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=bh-B2twAYwgAX_YtfVR&_nc_ht=scontent-tpe1-1.xx&oh=03_AVI3BzPjshyCwfj54zOQjHdEAPNxz-sMGrUAK_O_mPGzjg&oe=6359D85A)
 3.黃梓恩
 
-![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/305988222_432894212167153_103112254391672069_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=tKqV0gFhV9UAX8J_tvA&_nc_ht=scontent-tpe1-1.xx&oh=03_AVJixdkhwqPBJ1J_j09rBH8zZAlYrK7vNRYfZaeTRTAMAA&oe=635A97B6)
+![image](https://user-images.githubusercontent.com/114209460/192827489-12bc5bdd-33a5-477b-b9da-2968b7ff2ada.png)
 ### 參考文獻:
 * https://tomorrowsci.com/technology/%E3%80%8A%E6%97%A5%E7%B6%93%E3%80%8B%E5%85%A8%E7%90%83%E8%87%AA%E9%A7%95%E8%BB%8A%E6%8A%80%E8%A1%93%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9Aford%E3%80%81toyota%E6%8B%94%E9%A0%AD%E7%B1%8C%EF%BC%8C%E7%89%B9/
 * https://speed.ettoday.net/news/960239
