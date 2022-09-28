@@ -30,17 +30,25 @@
 
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
 
+圖 1. 智能汽車演示平台的外部和內部視圖。
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
 Figure 2. System architecture of the Smart Car demonstration platform.
+
+圖 2 智能汽車演示平台的系統架構。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
 
 Figure 3. The Smart Car’s configuration.
 
+圖 3. 智能汽車的配置。
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
 
 Figure 4. Layout combination of the transparent windshield display
+
+圖 4. 透明擋風玻璃顯示屏的佈局組合
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
 
@@ -48,14 +56,16 @@ Figure 5. Manipulation of visibility restoration application in the Smart Car. U
 driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
 lower portion: driver’s vision field has been improved after turning on the application.
 
+圖 5. 智能汽車中可見性恢復應用程序的操作。上部：在能見度差的條件下行駛；中部：開啟能見度恢復應用；下半部分：開啟應用後駕駛員視野得到改善。
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
-
-
 
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+>小組成員
+![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/308887636_399052499061965_4778204609374068111_n.jpg?stp=dst-jpg_p1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=W6yfbeQ_VYYAX9k3VKj&_nc_ht=scontent-tpe1-1.xx&oh=03_AVIStSP4TNm-LLtU-ttegL4wIlkUVaCgXJZN_M7nzxMfyg&oe=635AB82D)
 圖 6. 駕駛員執行夜間對比度增強應用程序，駕駛員視野增加。上下部分代表駕駛員在使用應用程序之前和之後的視野。
 ### 參考文獻:
 * https://tomorrowsci.com/technology/%E3%80%8A%E6%97%A5%E7%B6%93%E3%80%8B%E5%85%A8%E7%90%83%E8%87%AA%E9%A7%95%E8%BB%8A%E6%8A%80%E8%A1%93%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9Aford%E3%80%81toyota%E6%8B%94%E9%A0%AD%E7%B1%8C%EF%BC%8C%E7%89%B9/
