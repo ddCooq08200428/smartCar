@@ -27,26 +27,30 @@
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
 
 圖 1. 智能汽車演示平台的外部和內部視圖。
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
+***
 
 Figure 2. System architecture of the Smart Car demonstration platform.
 
 圖 2 智能汽車演示平台的系統架構。
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
 
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image2.png?raw=true)
+***
 
 Figure 3. The Smart Car’s configuration.
 
 圖 3. 智能汽車的配置。
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image3.png?raw=true)
+***
 
+Figure 4. Layout combination of the transparent windshield display.
 
-Figure 4. Layout combination of the transparent windshield display
+圖 4. 透明擋風玻璃顯示屏的佈局組合。
 
-圖 4. 透明擋風玻璃顯示屏的佈局組合
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image4.png?raw=true)
-
+***
 
 Figure 5. Manipulation of visibility restoration application in the Smart Car. Upper portion:
 driving in conditions with poor visibility; mid portion: turning on the visibility restoration application;
@@ -55,18 +59,19 @@ lower portion: driver’s vision field has been improved after turning on the ap
 圖 5. 智能汽車中可見性恢復應用程序的操作。上部：在能見度差的條件下行駛；中部：開啟能見度恢復應用；下半部分：開啟應用後駕駛員視野得到改善。
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image5.png?raw=true)
-
+***
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
 圖 6. 駕駛員執行夜間對比度增強應用程序，駕駛員視野增加。上下部分代表駕駛員在使用應用程序之前和之後的視野。
-### 什麼是Autopilot自動駕駛？
+
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image6.png?raw=true)
-
-
+***
+### 什麼是Autopilot自動駕駛？
 ``Autopilot（自動駕駛）``是一種經由``機械``、``電子儀器``、``液壓系統``、``陀螺儀``等，做出無人操控的自動化駕駛。另外對「自動駕駛汽車」的解釋是：又稱無人駕駛汽車、電腦駕駛汽車或輪式移動機器人，為一種運輸動力的無人地面載具。作為自動化載具，自動駕駛汽車``不需要人類操作``即能感測其環境及導航。
 自動駕駛汽車（以下簡稱無人車）能以``雷達``、``光學雷達``、``GPS``及``電腦視覺``等技術感測其環境。先進的控制系統能將感測資料轉換成適當的導航道路，以及障礙與相關標誌。根據定義，無人車能透過感測輸入的資料，更新其地圖資訊，讓交通工具可以持續追蹤其位置。
+### 自動駕駛等級
 ![image](https://scitechvista.nat.gov.tw/FileDownload/Article/20190702160618000000294.jpg)
 
 
@@ -91,3 +96,4 @@ before and after using the application.
 ### 參考文獻:
 * https://tomorrowsci.com/technology/%E3%80%8A%E6%97%A5%E7%B6%93%E3%80%8B%E5%85%A8%E7%90%83%E8%87%AA%E9%A7%95%E8%BB%8A%E6%8A%80%E8%A1%93%E6%8E%92%E8%A1%8C%E6%A6%9C%EF%BC%9Aford%E3%80%81toyota%E6%8B%94%E9%A0%AD%E7%B1%8C%EF%BC%8C%E7%89%B9/
 * https://speed.ettoday.net/news/960239
+* https://www.taisugar.com.tw/Monthly/CPN.aspx?ms=1448&p=13387529&s=13387553
