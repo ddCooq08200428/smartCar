@@ -23,6 +23,7 @@
 5. 駕駛控制系統：控制汽車起動，用油與控速，達到最省能源之效果。
 
 6. 駕駛信息服務系統：存有各種道路與服務設施(加油站、休息站、旅館、警察局等)之資料以提供查詢。
+![image](https://techbyeast.com/wp-content/uploads/2021/05/Graph-by-Nikkei-696x608.jpg)
 
 ![image](https://github.com/smartCarLab/smartCar/blob/master/image/image1.png?raw=true)
 
